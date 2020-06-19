@@ -8,7 +8,7 @@ After a general introduction on unsupervised learning, two methods are explained
 
 The data used in the project can be found at:  https://www.kaggle.com/airbnb/boston
 
-A summary of the work can be found at: https://wordpress.com/page/bernardesite.wordpress.com/277
+A summary of the work can be found at: https://bernardesite.wordpress.com/boston-airbnb/
 
 Dependency: <br>
 versions used:<br>
